@@ -4,12 +4,12 @@ from prettytable import PrettyTable
 from IPython.display import display, HTML
 
 # AWS credentials and region
-aws_access_key = 'AKIAUMJDMII4LYXS2WU2'
-aws_secret_key = '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'
+aws_access_key = 'XXXXXXXXXXXXXXXXX'
+aws_secret_key = 'XXXXXXXXXXXXXXXXX'
 aws_region = 'us-east-1'
 
 # Aurora DB cluster details
-aurora_cluster_endpoint = 'cloudtech-flopes-aurora-rds-instance-1.c8hr0uqhzlcv.us-east-1.rds.amazonaws.com'
+aurora_cluster_endpoint = 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'
 aurora_db_name = 'empresas'
 aurora_db_user = 'admin'
 aurora_db_password = '123456789'
